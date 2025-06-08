@@ -44,7 +44,7 @@ This app features dynamic **Country → City** dropdowns, a handy **show/hide pa
 
 ### ✅ Success Page
 
-![Success Screenshot](./UserInterface/SuccessPage.png)
+![Success Screenshot](./UserInterface/Success_Page.png)
 
 ---
 
