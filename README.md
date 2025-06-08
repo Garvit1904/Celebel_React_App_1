@@ -48,23 +48,6 @@ This app features dynamic **Country → City** dropdowns, a handy **show/hide pa
 
 ---
 
-## 📂 Project Structure
-
-react-form/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ ├── FormPage.js
-│ ├── SuccessPage.js
-│ └── App.css
-│ ├── FormPage.css
-│ └── SuccessPage.css
-├── package.json
-├── README.md
-└── .gitignore
-
 
 ## ⚙️ How to Run Locally
 
